@@ -1,3 +1,31 @@
+.container{
+  display: flex;
+  flex-direction: colum;
+  height: 100vh;
+}
+
+.header{
+  flex: 15%
+  background-color: 
+}
+
+.menu{
+  flex: 5%
+  background-color: 
+}
+
+.content{
+  flex: 70%
+  background-color: 
+}
+
+.footer{
+  flex: 10%
+  background-color: 
+}
+
+
+
 h1 { color: red;}
 .f1 {
   color: tomato;
