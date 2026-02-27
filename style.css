@@ -5,8 +5,8 @@
 }
 
 .header{
-  flex: 15%
-  background-color: 
+  flex: 15%;
+  background-color: lightblue;
 }
 
 .menu{
@@ -27,14 +27,14 @@
 }
 .content iframe{
   flex: 1;
-  width: 100%
-  height: 100%
-  border: 0
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
       
 .footer{
-  flex: 10%
-  background-color: 
+  flex: 10%;
+  background-color: white;
 }
 
 
